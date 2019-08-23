@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Q986_IntervalListIntersections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Q814_BinaryTreePruning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q1_TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q896_MonotonicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q896_MonotonicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q15_3Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q15_3Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q834_SumOfDistancesInTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q834_SumOfDistancesInTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/Q895_MaximumFrequencyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/Q895_MaximumFrequencyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q174_DungeonGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q174_DungeonGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q2_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q2_AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/META-INF/LeetCode_Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q94_BinaryTreeInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q94_BinaryTreeInorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/com/blankj/structure/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/com/blankj/structure/Interval.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Greedy/Q986_IntervalListIntersections.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/Q814_BinaryTreePruning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="228">
+              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -81,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q834_SumOfDistancesInTree.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.java" />
         <option value="$PROJECT_DIR$/src/Greedy/Q986_IntervalListIntersections.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Q814_BinaryTreePruning.java" />
       </list>
     </option>
   </component>
@@ -96,18 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode_Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode_Java" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,6 +138,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode_Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode_Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,26 +178,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q986_IntervalListIntersections">
-    <configuration name="Q1_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Q1_TwoSum" />
+  <component name="RunManager" selected="Application.Q814_BinaryTreePruning">
+    <configuration name="Q814_BinaryTreePruning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Q814_BinaryTreePruning" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q834_SumOfDistancesInTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q834_SumOfDistancesInTree" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DepthFirstSearch.*" />
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,6 +198,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q94_BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Q94_BinaryTreeInorderTraversal" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q814_BinaryTreePruning" />
+        <item itemvalue="Application.Q94_BinaryTreeInorderTraversal" />
         <item itemvalue="Application.Q986_IntervalListIntersections" />
         <item itemvalue="Application.Q960_DeleteColumnsToMakeSortedIII" />
         <item itemvalue="Application.Q896_MonotonicArray" />
-        <item itemvalue="Application.Q1_TwoSum" />
-        <item itemvalue="Application.Q834_SumOfDistancesInTree" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +271,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.26072386" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.26407507" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.26072386" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,30 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Q94_BinaryTreeInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q834_SumOfDistancesInTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/Q1_TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -428,15 +388,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q174_DungeonGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="209">
           <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q834_SumOfDistancesInTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Greedy/Q986_IntervalListIntersections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="247">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Q94_BinaryTreeInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Q814_BinaryTreePruning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
         </state>
       </provider>
     </entry>
