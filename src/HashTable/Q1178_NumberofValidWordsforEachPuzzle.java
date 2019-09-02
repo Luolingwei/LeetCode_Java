@@ -6,7 +6,9 @@ public class Q1178_NumberofValidWordsforEachPuzzle {
     public static void main(String[] args){
         Q1178_NumberofValidWordsforEachPuzzle a=new Q1178_NumberofValidWordsforEachPuzzle();
         System.out.println(a.findNumOfValidWords(new String[]{"aaaa","asas","able","ability","actt","actor","access"},new String[]{"aboveyz","abrodyz","abslute","absoryz","actresz","gaswxyz"}));
-    }    public List<Integer> findNumOfValidWords(String[] words, String[] puzzles) {
+    }
+
+    public List<Integer> findNumOfValidWords(String[] words, String[] puzzles) {
 
         // 构建words的count
         Map<Integer,Integer> count = new HashMap<>();
