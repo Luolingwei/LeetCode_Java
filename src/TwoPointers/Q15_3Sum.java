@@ -1,4 +1,4 @@
-package DepthFirstSearch;
+package TwoPointers;
 
 import java.util.*;
 
