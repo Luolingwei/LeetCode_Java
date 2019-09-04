@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DepthFirstSearch/Q46_Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DepthFirstSearch/Q47_PermutationsII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +17,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q47_PermutationsII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q46_Permutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/Q1_TwoSum/Q1_TwoSum.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Q1_TwoSum/Q1_TwoSum.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Q2_AddTwoNumbers.java" />
@@ -156,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/TwoPointers/Q16_3SumClosest.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_8.groovy" />
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q46_Permutations.java" />
+        <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q47_PermutationsII.java" />
       </list>
     </option>
   </component>
@@ -299,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q46_Permutations">
+  <component name="RunManager" selected="Application.Q47_PermutationsII">
     <configuration name="Q16_3SumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoPointers.Q16_3SumClosest" />
       <module name="LeetCode_Java" />
@@ -313,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3_LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashTable.Q3_LongestSubstringWithoutRepeatingCharacters" />
+    <configuration name="Q46_Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q46_Permutations" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashTable.*" />
+          <option name="PATTERN" value="DepthFirstSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,8 +334,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q46_Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q46_Permutations" />
+    <configuration name="Q47_PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q47_PermutationsII" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
@@ -367,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q47_PermutationsII" />
         <item itemvalue="Application.Q46_Permutations" />
         <item itemvalue="Application.Q16_3SumClosest" />
         <item itemvalue="Application.Q5_LongestPalindromicSubstring" />
         <item itemvalue="Application.Q516_LongestPalindromicSubsequence" />
-        <item itemvalue="Application.Q3_LongestSubstringWithoutRepeatingCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +409,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43767706" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36685553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,7 +435,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Q1_TwoSum.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Q2_AddTwoNumbers.java" />
     <entry file="file://$PROJECT_DIR$/Q1_TwoSum.java" />
     <entry file="file://$PROJECT_DIR$/Q2_AddTwoNumbers.java" />
@@ -721,11 +728,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q46_Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q47_PermutationsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
