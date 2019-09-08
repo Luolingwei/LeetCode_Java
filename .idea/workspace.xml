@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Q72_EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Q322_CoinChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q72_EditDistance.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q322_CoinChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="207">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -128,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Array/Q1_TwoSum.java" />
         <option value="$PROJECT_DIR$/src/Tree/structure/ListNode.java" />
         <option value="$PROJECT_DIR$/src/Design/Q895_MaximumFrequencyStack.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q174_DungeonGame.java" />
@@ -179,6 +178,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_13.groovy" />
         <option value="$PROJECT_DIR$/src/BreadthFirstSearch/Q773_SlidingPuzzle.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q72_EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/Q322_CoinChange.java" />
       </list>
     </option>
   </component>
@@ -256,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q72_EditDistance">
+  <component name="RunManager" selected="Application.Q322_CoinChange">
     <configuration name="Q212_WordSearchII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q212_WordSearchII" />
       <module name="LeetCode_Java" />
@@ -270,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q47_PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q47_PermutationsII" />
+    <configuration name="Q322_CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.Q322_CoinChange" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DepthFirstSearch.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q322_CoinChange" />
         <item itemvalue="Application.Q72_EditDistance" />
         <item itemvalue="Application.Q773_SlidingPuzzle" />
         <item itemvalue="Application.Q212_WordSearchII" />
         <item itemvalue="Application.Q79_WordSearch" />
-        <item itemvalue="Application.Q47_PermutationsII" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +349,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.32171583" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.3264075" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.26072386" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,9 +384,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/structure/Interval.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/structure/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -719,17 +716,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q174_DungeonGame.java">
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q72_EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q72_EditDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q174_DungeonGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="6" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q322_CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
