@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/QAmazon_TreeAmplitude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/QAmazon_MinimumPathSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/QAmazon_TreeAmplitude.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -160,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DynamicProgramming/Q5_LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/Array/Q896_MonotonicArray.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q516_LongestPalindromicSubsequence.java" />
         <option value="$PROJECT_DIR$/src/String/Q5_LongestPalindromicSubstring.java" />
@@ -211,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/BreadthFirstSearch/QAmazon_Maze.java" />
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/QAmazon_TreeAmplitude.java" />
         <option value="$PROJECT_DIR$/src/Tree/QAmazon_TreeAmplitude.java" />
+        <option value="$PROJECT_DIR$/src/Tree/QAmazon_MinimumPathSum.java" />
       </list>
     </option>
   </component>
@@ -324,13 +313,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QAmazon_TreeAmplitude">
-    <configuration name="Q836_RectangleOverlap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.Q836_RectangleOverlap" />
+  <component name="RunManager" selected="Application.QAmazon_MinimumPathSum">
+    <configuration name="QAmazon_Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch.QAmazon_Maze" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="BreadthFirstSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QAmazon_Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch.QAmazon_Maze" />
+    <configuration name="QAmazon_MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.QAmazon_MinimumPathSum" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BreadthFirstSearch.*" />
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,11 +381,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QAmazon_MinimumPathSum" />
         <item itemvalue="Application.QAmazon_TreeAmplitude" />
         <item itemvalue="Application.QAmazon_Maze" />
         <item itemvalue="Application.QAmazon_WindowSum2" />
         <item itemvalue="Application.QAmazon_WindowSum" />
-        <item itemvalue="Application.Q836_RectangleOverlap" />
       </list>
     </recent_temporary>
   </component>
@@ -415,9 +404,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.36930296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.36930296" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.26072386" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,7 +414,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45892352" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,9 +446,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_4.snippet">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_13.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -799,8 +784,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/QAmazon_TreeAmplitude.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="6" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/QAmazon_MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
