@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Heap/QAmazon_FindKNearestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Q819_MostCommonWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,35 +16,13 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/Q973_follow_KClosestPointstoPointA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Heap/QAmazon_FindKNearestPoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="27" column="65" lean-forward="true" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
-              <folding>
-                <element signature="e#1214#1215#0" expanded="true" />
-                <element signature="e#1292#1293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Singleton" />
       </list>
     </option>
   </component>
@@ -205,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BreadthFirstSearch/Q773_SlidingPuzzle.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q72_EditDistance.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q322_CoinChange.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q518_CoinChange2.java" />
@@ -256,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/DynamicProgramming/Q1191_KConcatenationMaximumSum.java" />
         <option value="$PROJECT_DIR$/src/Heap/QAmazon_HighFive.java" />
         <option value="$PROJECT_DIR$/src/Heap/QAmazon_FindKNearestPoint.java" />
+        <option value="$PROJECT_DIR$/src/String/Q819_MostCommonWord.java" />
       </list>
     </option>
   </component>
@@ -271,18 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode_Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode_Java" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,12 +272,24 @@
               <item name="LeetCode_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode_Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode_Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QAmazon_FindKNearestPoint">
+  <component name="RunManager" selected="Application.Q819_MostCommonWord">
     <configuration name="Q1190_ReverseSubstringsBetweenEachPairofParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.Q1190_ReverseSubstringsBetweenEachPairofParentheses" />
       <module name="LeetCode_Java" />
@@ -359,6 +338,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q819_MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Q819_MostCommonWord" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,26 +384,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QAmazon_SubtreeWithMaximumAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.QAmazon_SubtreeWithMaximumAverage" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q819_MostCommonWord" />
         <item itemvalue="Application.QAmazon_FindKNearestPoint" />
         <item itemvalue="Application.QAmazon_HighFive" />
         <item itemvalue="Application.Q1191_KConcatenationMaximumSum" />
         <item itemvalue="Application.Q1190_ReverseSubstringsBetweenEachPairofParentheses" />
-        <item itemvalue="Application.QAmazon_SubtreeWithMaximumAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -430,9 +409,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.3961126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.40147454" />
       <window_info id="Structure" order="1" sideWeight="0.50309277" side_tool="true" weight="0.37466487" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -482,13 +460,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q47_PermutationsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Q785_IsGraphBipartite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -714,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/Q5_LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/QAmazon_MinimumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -837,19 +801,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/Q973_follow_KClosestPointstoPointA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="101" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Q5_LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Q819_MostCommonWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Heap/QAmazon_FindKNearestPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="27" column="65" lean-forward="true" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
-          <folding>
-            <element signature="e#1214#1215#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="188">
+          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
         </state>
       </provider>
     </entry>
