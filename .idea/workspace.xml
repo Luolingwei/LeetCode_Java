@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DepthFirstSearch/Q216_CombinationSumIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_ArithmeticSequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -185,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Heap/Q239_SlidingWindowMinimum.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_14.groovy" />
         <option value="$PROJECT_DIR$/src/Heap/Q239_SlidingWindowMaximum.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_5.snippet" />
@@ -236,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q39_CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q40_CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q216_CombinationSumIII.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_ArithmeticSequence.java" />
       </list>
     </option>
   </component>
@@ -251,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,7 +290,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q216_CombinationSumIII">
+  <component name="RunManager" selected="Application.QAmazon_ArithmeticSequence">
     <configuration name="Q216_CombinationSumIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q216_CombinationSumIII" />
       <module name="LeetCode_Java" />
@@ -372,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QAmazon_FindKNearestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.QAmazon_FindKNearestPoint" />
+    <configuration name="QAmazon_ArithmeticSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.QAmazon_ArithmeticSequence" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,11 +386,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QAmazon_ArithmeticSequence" />
         <item itemvalue="Application.Q216_CombinationSumIII" />
         <item itemvalue="Application.Q40_CombinationSumII" />
         <item itemvalue="Application.Q39_CombinationSum" />
         <item itemvalue="Application.Q819_MostCommonWord" />
-        <item itemvalue="Application.QAmazon_FindKNearestPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +410,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.40683645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.4121984" />
       <window_info id="Structure" order="1" sideWeight="0.50309277" side_tool="true" weight="0.37466487" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,7 +419,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45892352" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,13 +468,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Java/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/Q508_MostFrequentSubtreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
@@ -742,13 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q1191_KConcatenationMaximumSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Heap/Q239_SlidingWindowMaximum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -836,6 +821,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Q1191_KConcatenationMaximumSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/QAmazon_ArithmeticSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
