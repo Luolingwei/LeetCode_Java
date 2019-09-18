@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Q141_LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Q142_LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/QAmazon_DayChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,26 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/Q142_LinkedListCycleII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/Q141_LinkedListCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -205,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_5.snippet" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_16.groovy" />
         <option value="$PROJECT_DIR$/src/Array/Q1_TwoSum.java" />
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q785_IsGraphBipartite.java" />
@@ -254,8 +233,9 @@
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q40_CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/DepthFirstSearch/Q216_CombinationSumIII.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_ArithmeticSequence.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/Q141_LinkedListCycle.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/Q142_LinkedListCycleII.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/Q141_LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/Array/QAmazon_DayChange.java" />
       </list>
     </option>
   </component>
@@ -283,12 +263,6 @@
               <item name="LeetCode_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QAmazon_ArithmeticSequence">
+  <component name="RunManager" selected="Application.QAmazon_DayChange">
     <configuration name="Q216_CombinationSumIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q216_CombinationSumIII" />
       <module name="LeetCode_Java" />
@@ -373,19 +347,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q819_MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Q819_MostCommonWord" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QAmazon_ArithmeticSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.QAmazon_ArithmeticSequence" />
       <module name="LeetCode_Java" />
@@ -399,13 +360,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QAmazon_DayChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.QAmazon_DayChange" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QAmazon_DayChange" />
         <item itemvalue="Application.QAmazon_ArithmeticSequence" />
         <item itemvalue="Application.Q216_CombinationSumIII" />
         <item itemvalue="Application.Q40_CombinationSumII" />
         <item itemvalue="Application.Q39_CombinationSum" />
-        <item itemvalue="Application.Q819_MostCommonWord" />
       </list>
     </recent_temporary>
   </component>
@@ -423,8 +397,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.4121984" />
       <window_info id="Structure" order="1" sideWeight="0.50309277" side_tool="true" weight="0.37466487" />
@@ -484,13 +457,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Math/Q1175_PrimeArrangements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="6" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Math/Q836_RectangleOverlap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -619,13 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/QAmazon_ClosestTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -837,17 +796,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/Q141_LinkedListCycle.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Q142_LinkedListCycleII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="418">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/Q142_LinkedListCycleII.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/Q141_LinkedListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="19">
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/QAmazon_ClosestTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/QAmazon_DayChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
