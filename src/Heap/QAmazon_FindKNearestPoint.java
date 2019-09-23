@@ -36,6 +36,8 @@ public class QAmazon_FindKNearestPoint {
             }
         });
         for (Point p: array){
+            if (pq.size()>=K)
+                pq.poll();
             pq.add(p);
         }
         for (int i=0;i<K;i++){

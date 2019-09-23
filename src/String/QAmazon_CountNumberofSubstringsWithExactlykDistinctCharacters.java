@@ -1,7 +1,6 @@
 package String;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
 
 public class QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters {
 
@@ -33,17 +32,29 @@ public class QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters {
 //        return res;
 //    }
 
-        // 2: 长度固定，长度=k，distinct 字母=k-1
+        // 2: 长度固定，长度=k，distinct 字母=k-1 sliding window
         public int Count(String S,int k){
             int N=S.length(),res=0;
-            for (int i=0;i<=N-k;i++){
-                Set<Character> dic=new HashSet<>();
-                for (int j=i;j<i+k;j++){
-                    dic.add(S.charAt(j));
-                }
-                if (dic.size()==k-1)
-                    res+=1;
+            int distinct=0,i=0;
+            int [] memo=new int[26];
+            for (;i<k;i++){
+                if (memo[S.charAt(i)-'a']==0)
+                    distinct+=1;
+                memo[S.charAt(i)-'a']+=1;
             }
+            if (distinct==k-1) res+=1;
+            while (i<S.length()){
+                if (memo[S.charAt(i)-'a']==0)
+                    distinct+=1;
+                memo[S.charAt(i)-'a']+=1;
+                memo[S.charAt(i-k)-'a']-=1;
+                if (memo[S.charAt(i-k)-'a']==0)
+                    distinct-=1;
+                if (distinct==k-1)
+                    res+=1;
+                i+=1;
+                }
+
             return res;
         }
 }
