@@ -7,17 +7,24 @@ class Q1_TwoSum {
 
     public static void main(String[] args){
         Q1_TwoSum a=new Q1_TwoSum();
-        System.out.println(Arrays.toString(a.twoSum(new int []{2, 7, 11, 15},9)));
+        System.out.println(a.twoSum(new ArrayList<>(Arrays.asList(50,20,35,35,40,30,5,19)),100));
+        System.out.println(a.twoSum(new ArrayList<>(Arrays.asList(50,20,35,35,40,30,5,19)),10));
     }
 
-    public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map=new HashMap<>();
-        for (int i=0; i<nums.length; i++){
-            if (map.containsKey(target-nums[i])){
-                return new int [] {i,map.get(target-nums[i])};
-            }
-            map.put(nums[i],i);
+    public List<Integer> twoSum(List<Integer> nums, int tructSpace) {
+        int target=tructSpace-30;
+        Collections.sort(nums);
+        int l=0,r=nums.size()-1;
+        while (l<r){
+            int s=nums.get(l)+nums.get(r);
+            if (s==target)
+                return new ArrayList<>(Arrays.asList(nums.get(l),nums.get(r)));
+            else if (s<target)
+                l+=1;
+            else
+                r-=1;
         }
-        return new int [] {0,0};
+        return new ArrayList<>();
+
     }
 }

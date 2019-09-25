@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Q48_RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Q1_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_MaximumMinimumPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_MaximumMinimumPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/Q819_MostCommonWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Q819_MostCommonWord.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Array/Q48_RotateImage.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/QAmazon_MaximumMinimumPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            <state relative-caret-position="350">
+              <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -220,7 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LinkedList/Q206_follow_ReverseSecondHalf.java" />
         <option value="$PROJECT_DIR$/src/Tree/Q572_SubtreeofAnotherTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/Q508_MostFrequentSubtreeSum.java" />
         <option value="$PROJECT_DIR$/src/Sort/Q973_follow_Q973_follow_KClosestPointstoPointA.java" />
@@ -237,7 +238,6 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_7.snippet" />
         <option value="$PROJECT_DIR$/src/Design/QAmazon_LRUCacheCountMiss.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/QAmazon_InsertIntoCycleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_MaximumMinimumPath.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/Q240_SearchA2DMatrixII.java" />
         <option value="$PROJECT_DIR$/src/Array/QAmazon_ClosestTwoSum.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_21.groovy" />
@@ -268,9 +268,11 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_28.groovy" />
         <option value="$PROJECT_DIR$/src/String/QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters.java" />
         <option value="$PROJECT_DIR$/src/Heap/QAmazon_FindKNearestPoint.java" />
-        <option value="$PROJECT_DIR$/src/String/Q819_MostCommonWord.java" />
         <option value="$PROJECT_DIR$/src/Heap/Q215_KthLargestElementinanArray.java" />
         <option value="$PROJECT_DIR$/src/Array/Q48_RotateImage.java" />
+        <option value="$PROJECT_DIR$/src/String/Q819_MostCommonWord.java" />
+        <option value="$PROJECT_DIR$/src/Array/Q1_TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/QAmazon_MaximumMinimumPath.java" />
       </list>
     </option>
   </component>
@@ -309,6 +311,12 @@
               <item name="LeetCode_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamicProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Greedy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -316,6 +324,12 @@
               <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +374,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q48_RotateImage">
+  <component name="RunManager" selected="Application.QAmazon_MaximumMinimumPath">
+    <configuration name="Q1_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Q1_TwoSum" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q215_KthLargestElementinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heap.Q215_KthLargestElementinanArray" />
       <module name="LeetCode_Java" />
@@ -400,25 +427,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters" />
+    <configuration name="QAmazon_MaximumMinimumPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.QAmazon_MaximumMinimumPath" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QAmazon_FindKNearestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.QAmazon_FindKNearestPoint" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,11 +442,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QAmazon_MaximumMinimumPath" />
+        <item itemvalue="Application.Q1_TwoSum" />
+        <item itemvalue="Application.Q819_MostCommonWord" />
         <item itemvalue="Application.Q48_RotateImage" />
         <item itemvalue="Application.Q215_KthLargestElementinanArray" />
-        <item itemvalue="Application.Q819_MostCommonWord" />
-        <item itemvalue="Application.QAmazon_FindKNearestPoint" />
-        <item itemvalue="Application.QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +467,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.3652815" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969072" visible="true" weight="0.37064344" />
       <window_info id="Structure" order="1" sideWeight="0.50309277" side_tool="true" weight="0.37466487" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -469,7 +483,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.50708216" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -511,13 +525,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_23.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/Q20_ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -661,20 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/QAmazon_ClosestTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Q1_TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/QAmazon_BinaryTreeLeftSideView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -789,13 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/Q819_MostCommonWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String/QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -868,8 +854,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/Q48_RotateImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Q819_MostCommonWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="8" column="148" selection-start-line="8" selection-start-column="148" selection-end-line="8" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/QAmazon_ClosestTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Q1_TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="93" lean-forward="true" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/QAmazon_MaximumMinimumPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
         </state>
       </provider>
     </entry>
