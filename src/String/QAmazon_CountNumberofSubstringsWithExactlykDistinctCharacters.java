@@ -6,9 +6,9 @@ public class QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters {
 
     public static void main(String[] args){
         QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters a=new QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters();
-        System.out.println((a.Count("abc",2)));
-        System.out.println((a.Count("abbbbaaaa",2)));
-        System.out.println((a.Count("aa",2)));
+        System.out.println((a.Count("abcabc",3)));
+        System.out.println((a.Count("abacab",3)));
+        System.out.println((a.Count("awaglknagawunagwkwagl",4)));
     }
 
     // 1: 长度不固定，计算distinct 字母=k的子串个数
@@ -32,17 +32,19 @@ public class QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters {
 //        return res;
 //    }
 
-        // 2: 长度固定，长度=k，distinct 字母=k-1 sliding window
-        public int Count(String S,int k){
-            int N=S.length(),res=0;
+        // 2: 长度固定，长度=k，distinct 也是 k sliding window
+        public List<String> Count(String S,int k){
             int distinct=0,i=0;
             int [] memo=new int[26];
+            Set<String> set=new HashSet<>();
             for (;i<k;i++){
                 if (memo[S.charAt(i)-'a']==0)
                     distinct+=1;
                 memo[S.charAt(i)-'a']+=1;
             }
-            if (distinct==k-1) res+=1;
+            if (distinct==k) {
+                set.add(S.substring(i-k,i));
+            }
             while (i<S.length()){
                 if (memo[S.charAt(i)-'a']==0)
                     distinct+=1;
@@ -50,11 +52,11 @@ public class QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters {
                 memo[S.charAt(i-k)-'a']-=1;
                 if (memo[S.charAt(i-k)-'a']==0)
                     distinct-=1;
-                if (distinct==k-1)
-                    res+=1;
+                if (distinct==k)
+                    set.add(S.substring(i-k+1,i+1));
                 i+=1;
                 }
 
-            return res;
+            return new ArrayList<>(set);
         }
 }
