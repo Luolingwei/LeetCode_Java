@@ -6,8 +6,8 @@ public class QAmazon_FindKNearestPoint {
 
     public static void main(String[] args){
         QAmazon_FindKNearestPoint a=new QAmazon_FindKNearestPoint();
-        Point [] ans=a.findK(new Point[]{new Point(1,2),new Point(2,3),new Point(3,4),
-        new Point(6,7),new Point(1,5),new Point(3,6)},new Point(5,2),3);
+        Point [] ans=a.findK(new Point[]{new Point(1,1),new Point(2,2),
+        new Point(3,3),new Point(4,4)},new Point(0,0),2);
         for (Point p:ans){
             System.out.println(p.x);
             System.out.println(p.y);
@@ -36,8 +36,6 @@ public class QAmazon_FindKNearestPoint {
             }
         });
         for (Point p: array){
-            if (pq.size()>=K)
-                pq.poll();
             pq.add(p);
         }
         for (int i=0;i<K;i++){
