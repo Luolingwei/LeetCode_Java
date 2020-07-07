@@ -7,6 +7,7 @@ public class Q1427_PerformStringShifts {
     }
 
     public static String stringShift(String s, int[][] shift) {
+        Integer a = 5;
         int length = s.length();
         int t = 0;
         for (int[] sh: shift)
