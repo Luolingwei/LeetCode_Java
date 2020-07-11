@@ -1,7 +1,5 @@
 package DynamicProgramming;
 
-import java.util.Arrays;
-
 public class Q72_EditDistance {
 
     public static void main(String[] args){
@@ -12,8 +10,6 @@ public class Q72_EditDistance {
     public int minDistance(String word1, String word2) {
         int m=word1.length()+1,n=word2.length()+1;
         int [][] dp=new int[m][n];
-        for (int i=0;i<m;i++)
-            Arrays.fill(dp[i],0);
         for (int i=0;i<m;i++) dp[i][0]=i;
         for (int j=0;j<n;j++) dp[0][j]=j;
         for (int i=1;i<m;i++){
