@@ -2,100 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Heap/Q1383_MaximumPerformanceofATeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q1_TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q217_ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q217_ContainsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q48_RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q48_RotateImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q896_MonotonicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/Q896_MonotonicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/QAmazon_ClosestTwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/QAmazon_ClosestTwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/QAmazon_DayChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/QAmazon_DayChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/QAmazon_OptimizeMemoryUsage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Array/QAmazon_OptimizeMemoryUsage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/BinarySearch/Q240_SearchA2DMatrixII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/BinarySearch/Q240_SearchA2DMatrixII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/BreadthFirstSearch/Q127_WordLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/BreadthFirstSearch/Q127_WordLadder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/BreadthFirstSearch/Q773_SlidingPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/BreadthFirstSearch/Q773_SlidingPuzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/BreadthFirstSearch/QAmazon_Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/BreadthFirstSearch/QAmazon_Maze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q210_CourseScheduleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q210_CourseScheduleII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q212_WordSearchII$Trienode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q212_WordSearchII$Trienode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q212_WordSearchII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q212_WordSearchII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q216_CombinationSumIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q216_CombinationSumIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q39_CombinationSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q39_CombinationSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q40_CombinationSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q40_CombinationSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q46_Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q46_Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q47_PermutationsII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q47_PermutationsII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q733_FloodFill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q733_FloodFill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q77_Combinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q77_Combinations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q785_IsGraphBipartite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q785_IsGraphBipartite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q79_WordSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q79_WordSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q834_SumOfDistancesInTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q834_SumOfDistancesInTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q93_RestoreIPAddresses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DepthFirstSearch/Q93_RestoreIPAddresses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/Q895_MaximumFrequencyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/Q895_MaximumFrequencyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/Q981_TimeBasedKeyValueStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/Q981_TimeBasedKeyValueStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/QAmazon_LRUCacheCountMiss.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Design/QAmazon_LRUCacheCountMiss.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DivideAndConquer/Q215_KthLargestElementInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DivideAndConquer/Q215_KthLargestElementInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q1039_MinimumScoreTriangulationofPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q1039_MinimumScoreTriangulationofPolygon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q1191_KConcatenationMaximumSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q1191_KConcatenationMaximumSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q174_DungeonGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q174_DungeonGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q322_CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q322_CoinChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q516_LongestPalindromicSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q516_LongestPalindromicSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q518_CoinChange2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q518_CoinChange2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q72_EditDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q72_EditDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/Q960_DeleteColumnsToMakeSortedIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/QAmazon_ArithmeticSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/QAmazon_ArithmeticSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/QAmazon_MaximumMinimumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/DynamicProgramming/QAmazon_MaximumMinimumPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Greedy/Q986_IntervalListIntersections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Greedy/Q986_IntervalListIntersections.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/HashTable/Q1178_NumberofValidWordsforEachPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/HashTable/Q1178_NumberofValidWordsforEachPuzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/HashTable/Q3_LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/HashTable/Q3_LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q215_KthLargestElementinanArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q215_KthLargestElementinanArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q239_SlidingWindowMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q239_SlidingWindowMaximum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q692_TopKFrequentWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q692_TopKFrequentWords$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q692_TopKFrequentWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q692_TopKFrequentWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_FindKNearestPoint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_FindKNearestPoint$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_FindKNearestPoint$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_FindKNearestPoint$Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_FindKNearestPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_FindKNearestPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_HighFive$Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_HighFive$Score.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_HighFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/QAmazon_HighFive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q141_LinkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q141_LinkedListCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q142_LinkedListCycleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q142_LinkedListCycleII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q206_ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q206_ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q206_follow_ReverseSecondHalf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q206_follow_ReverseSecondHalf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q21_MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q21_MergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q2_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/Q2_AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/QAmazon_InsertIntoCycleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/QAmazon_InsertIntoCycleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/LinkedList/structure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Math/Q1175_PrimeArrangements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Math/Q1175_PrimeArrangements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Math/Q836_RectangleOverlap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Math/Q836_RectangleOverlap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Math/QAmazon_FourInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Math/QAmazon_FourInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/SlidingWindow/QAmazon_WindowSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/SlidingWindow/QAmazon_WindowSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/SlidingWindow/QAmazon_WindowSum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/SlidingWindow/QAmazon_WindowSum2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Sort/Q973_follow_KClosestPointstoPointA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Sort/Q973_follow_KClosestPointstoPointA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Stack/Q1190_ReverseSubstringsBetweenEachPairofParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Stack/Q1190_ReverseSubstringsBetweenEachPairofParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Stack/Q20_ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Stack/Q20_ValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/String/Q1177_CanMakePalindromefromSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/String/Q1177_CanMakePalindromefromSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/String/Q5_LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/String/Q5_LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/String/Q819_MostCommonWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/String/Q819_MostCommonWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/String/QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/String/QAmazon_CountNumberofSubstringsWithExactlykDistinctCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/String/QAmazon_RemoveVowel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/String/QAmazon_RemoveVowel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q113_PathSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q113_PathSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q144_BinaryTreePreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q144_BinaryTreePreorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q508_MostFrequentSubtreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q508_MostFrequentSubtreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q572_SubtreeofAnotherTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q572_SubtreeofAnotherTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q814_BinaryTreePruning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q814_BinaryTreePruning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q94_BinaryTreeInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q94_BinaryTreeInorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q965_UnivaluedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q965_UnivaluedBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q98_ValidateBinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/Q98_ValidateBinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_BinaryTreeLeftSideView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_BinaryTreeLeftSideView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_MinimumPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_MinimumPathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_SubtreeWithMaximumAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_SubtreeWithMaximumAverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_TreeAmplitude.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/QAmazon_TreeAmplitude.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Tree/structure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/TwoPointers/Q15_3Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/TwoPointers/Q15_3Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/TwoPointers/Q16_3SumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/TwoPointers/Q16_3SumClosest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/com/blankj/structure/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/com/blankj/structure/Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q1383_MaximumPerformanceofATeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Heap/Q1383_MaximumPerformanceofATeam.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,10 +29,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
@@ -139,13 +48,52 @@
       <recent name="D:\My_QiYi\LeetCode_Java\src\Tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1383_MaximumPerformanceofATeam">
+  <component name="RunManager" selected="Application.Q1579_RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable">
     <configuration name="Q1383_MaximumPerformanceofATeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heap.Q1383_MaximumPerformanceofATeam" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1573_NumberOfWaysToSplitAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Q1573_NumberOfWaysToSplitAString" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1574_ShortestSubarrayToBeRemovedToMakeArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.Q1574_ShortestSubarrayToBeRemovedToMakeArraySorted" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1579_RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionFind.Q1579_RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnionFind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,54 +114,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q215_KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideAndConquer.Q215_KthLargestElementInArray" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DivideAndConquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q217_ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Q217_ContainsDuplicate" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QAmazon_FindKNearestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.QAmazon_FindKNearestPoint" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1579_RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable" />
+        <item itemvalue="Application.Q1573_NumberOfWaysToSplitAString" />
+        <item itemvalue="Application.Q1574_ShortestSubarrayToBeRemovedToMakeArraySorted" />
         <item itemvalue="Application.Q1383_MaximumPerformanceofATeam" />
         <item itemvalue="Application.Q1_TwoSum" />
-        <item itemvalue="Application.Q215_KthLargestElementInArray" />
-        <item itemvalue="Application.Q217_ContainsDuplicate" />
-        <item itemvalue="Application.QAmazon_FindKNearestPoint" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -229,69 +141,56 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="570" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581040666324">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="339" key="GridCell.Tab.0.bottom" timestamp="1599518299278">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state x="570" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.797@0.23.1440.797" timestamp="1581040666324" />
-    <state width="1878" height="374" key="GridCell.Tab.0.bottom" timestamp="1584286423438">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.0.bottom/0.23.1920.968@0.23.1920.968" timestamp="1599518299278" />
+    <state width="1878" height="340" key="GridCell.Tab.0.bottom/0.23.1920.972@0.23.1920.972" timestamp="1599493907947" />
+    <state width="1878" height="339" key="GridCell.Tab.0.center" timestamp="1599518299277">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1581040773249" />
-    <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1581040946540" />
-    <state width="1878" height="374" key="GridCell.Tab.0.bottom/0.23.1920.969@0.23.1920.969" timestamp="1584286423438" />
-    <state width="1878" height="374" key="GridCell.Tab.0.center" timestamp="1584286423437">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.0.center/0.23.1920.968@0.23.1920.968" timestamp="1599518299277" />
+    <state width="1878" height="340" key="GridCell.Tab.0.center/0.23.1920.972@0.23.1920.972" timestamp="1599493907947" />
+    <state width="1878" height="339" key="GridCell.Tab.0.left" timestamp="1599518299276">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1581040773248" />
-    <state width="1398" height="279" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1581040946540" />
-    <state width="1878" height="374" key="GridCell.Tab.0.center/0.23.1920.969@0.23.1920.969" timestamp="1584286423437" />
-    <state width="1878" height="374" key="GridCell.Tab.0.left" timestamp="1584286423437">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.0.left/0.23.1920.968@0.23.1920.968" timestamp="1599518299276" />
+    <state width="1878" height="340" key="GridCell.Tab.0.left/0.23.1920.972@0.23.1920.972" timestamp="1599493907946" />
+    <state width="1878" height="339" key="GridCell.Tab.0.right" timestamp="1599518299278">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1581040773248" />
-    <state width="1398" height="279" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1581040946539" />
-    <state width="1878" height="374" key="GridCell.Tab.0.left/0.23.1920.969@0.23.1920.969" timestamp="1584286423437" />
-    <state width="1878" height="374" key="GridCell.Tab.0.right" timestamp="1584286423438">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.0.right/0.23.1920.968@0.23.1920.968" timestamp="1599518299278" />
+    <state width="1878" height="340" key="GridCell.Tab.0.right/0.23.1920.972@0.23.1920.972" timestamp="1599493907947" />
+    <state width="1878" height="339" key="GridCell.Tab.1.bottom" timestamp="1599518299279">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1398" height="279" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1581040773249" />
-    <state width="1398" height="279" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1581040946540" />
-    <state width="1878" height="374" key="GridCell.Tab.0.right/0.23.1920.969@0.23.1920.969" timestamp="1584286423438" />
-    <state width="1878" height="374" key="GridCell.Tab.1.bottom" timestamp="1584286423439">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.23.1920.968@0.23.1920.968" timestamp="1599518299279" />
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom/0.23.1920.972@0.23.1920.972" timestamp="1599493907948" />
+    <state width="1878" height="339" key="GridCell.Tab.1.center" timestamp="1599518299279">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1878" height="374" key="GridCell.Tab.1.bottom/0.23.1920.969@0.23.1920.969" timestamp="1584286423439" />
-    <state width="1878" height="374" key="GridCell.Tab.1.center" timestamp="1584286423438">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.1.center/0.23.1920.968@0.23.1920.968" timestamp="1599518299279" />
+    <state width="1878" height="340" key="GridCell.Tab.1.center/0.23.1920.972@0.23.1920.972" timestamp="1599493907948" />
+    <state width="1878" height="339" key="GridCell.Tab.1.left" timestamp="1599518299278">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1878" height="374" key="GridCell.Tab.1.center/0.23.1920.969@0.23.1920.969" timestamp="1584286423438" />
-    <state width="1878" height="374" key="GridCell.Tab.1.left" timestamp="1584286423438">
-      <screen x="0" y="23" width="1920" height="969" />
+    <state width="1878" height="339" key="GridCell.Tab.1.left/0.23.1920.968@0.23.1920.968" timestamp="1599518299278" />
+    <state width="1878" height="340" key="GridCell.Tab.1.left/0.23.1920.972@0.23.1920.972" timestamp="1599493907948" />
+    <state width="1878" height="339" key="GridCell.Tab.1.right" timestamp="1599518299279">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
-    <state width="1878" height="374" key="GridCell.Tab.1.left/0.23.1920.969@0.23.1920.969" timestamp="1584286423438" />
-    <state width="1878" height="374" key="GridCell.Tab.1.right" timestamp="1584286423439">
-      <screen x="0" y="23" width="1920" height="969" />
-    </state>
-    <state width="1878" height="374" key="GridCell.Tab.1.right/0.23.1920.969@0.23.1920.969" timestamp="1584286423439" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1581040757446">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1581040757446" />
-    <state x="640" y="144" width="639" height="727" key="find.popup" timestamp="1584285881987">
-      <screen x="0" y="23" width="1920" height="969" />
-    </state>
-    <state x="640" y="144" width="639" height="727" key="find.popup/0.23.1920.969@0.23.1920.969" timestamp="1584285881987" />
-    <state x="640" y="145" width="639" height="729" key="find.popup/0.23.1920.973@0.23.1920.973" timestamp="1582865046817" />
+    <state width="1878" height="339" key="GridCell.Tab.1.right/0.23.1920.968@0.23.1920.968" timestamp="1599518299279" />
+    <state width="1878" height="340" key="GridCell.Tab.1.right/0.23.1920.972@0.23.1920.972" timestamp="1599493907948" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode_Java$Q39_CombinationSum.ic" NAME="Q39_CombinationSum Coverage Results" MODIFIED="1568728281676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>DepthFirstSearch.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode_Java$Q814_BinaryTreePruning.ic" NAME="Q814_BinaryTreePruning Coverage Results" MODIFIED="1567215372134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Tree.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode_Java$Q836_RectangleOverlap.ic" NAME="Q836_RectangleOverlap Coverage Results" MODIFIED="1568415188127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Math.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode_Java$Q39_CombinationSum.ic" NAME="Q39_CombinationSum Coverage Results" MODIFIED="1568728281676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DepthFirstSearch.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode_Java$Q206_ReverseLinkedList.ic" NAME="Q206_ReverseLinkedList Coverage Results" MODIFIED="1568385795478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LinkedList.*</FILTER>
