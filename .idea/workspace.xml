@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe374f8-b7d1-4320-b933-3873e8866444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Interview/MultiThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DepthFirstSearch/Q1593_SplitAStringIntoTheMaxNumberOfUniqueSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DepthFirstSearch/Q1595_MinimumCostToConnectTwoGroupsOfPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Q1594_MaximumNonNegativeProductInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Q1592_RearrangeSpacesBetweenWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Interview/ThreadTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Interview/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Interview/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode_Java/Interview/MultiThread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode_Java/Interview/MultiThread3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +51,7 @@
       <recent name="D:\My_QiYi\LeetCode_Java\src\Tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiThread3">
-    <configuration name="MultiThread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.MultiThread2" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q1592_RearrangeSpacesBetweenWords">
     <configuration name="MultiThread3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interview.MultiThread3" />
       <module name="LeetCode_Java" />
@@ -76,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1584_MinCostToConnectAllPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnionFind.Q1584_MinCostToConnectAllPoints" />
+    <configuration name="Q1592_RearrangeSpacesBetweenWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Q1592_RearrangeSpacesBetweenWords" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnionFind.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.main" />
+    <configuration name="Q1593_SplitAStringIntoTheMaxNumberOfUniqueSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q1593_SplitAStringIntoTheMaxNumberOfUniqueSubstrings" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interview.*" />
+          <option name="PATTERN" value="DepthFirstSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.run" />
+    <configuration name="Q1594_MaximumNonNegativeProductInAMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.Q1594_MaximumNonNegativeProductInAMatrix" />
       <module name="LeetCode_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1595_MinimumCostToConnectTwoGroupsOfPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DepthFirstSearch.Q1595_MinimumCostToConnectTwoGroupsOfPoints" />
+      <module name="LeetCode_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DepthFirstSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1592_RearrangeSpacesBetweenWords" />
+        <item itemvalue="Application.Q1593_SplitAStringIntoTheMaxNumberOfUniqueSubstrings" />
+        <item itemvalue="Application.Q1594_MaximumNonNegativeProductInAMatrix" />
+        <item itemvalue="Application.Q1595_MinimumCostToConnectTwoGroupsOfPoints" />
         <item itemvalue="Application.MultiThread3" />
-        <item itemvalue="Application.MultiThread2" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.run" />
-        <item itemvalue="Application.Q1584_MinCostToConnectAllPoints" />
       </list>
     </recent_temporary>
   </component>
@@ -146,24 +148,28 @@
       <screen x="0" y="23" width="1920" height="968" />
     </state>
     <state x="773" y="220" key="#com.intellij.ide.util.MemberChooser/0.23.1920.968@0.23.1920.968" timestamp="1600281527162" />
-    <state width="1920" height="312" key="GridCell.Tab.0.bottom" timestamp="1600358922664">
-      <screen x="0" y="23" width="1920" height="968" />
+    <state width="1920" height="310" key="GridCell.Tab.0.bottom" timestamp="1600627240652">
+      <screen x="0" y="23" width="1920" height="964" />
     </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.bottom/0.23.1920.964@0.23.1920.964" timestamp="1600627240652" />
     <state width="1920" height="312" key="GridCell.Tab.0.bottom/0.23.1920.968@0.23.1920.968" timestamp="1600358922664" />
     <state width="1878" height="340" key="GridCell.Tab.0.bottom/0.23.1920.972@0.23.1920.972" timestamp="1599493907947" />
-    <state width="1920" height="312" key="GridCell.Tab.0.center" timestamp="1600358922664">
-      <screen x="0" y="23" width="1920" height="968" />
+    <state width="1920" height="310" key="GridCell.Tab.0.center" timestamp="1600627240652">
+      <screen x="0" y="23" width="1920" height="964" />
     </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.center/0.23.1920.964@0.23.1920.964" timestamp="1600627240652" />
     <state width="1920" height="312" key="GridCell.Tab.0.center/0.23.1920.968@0.23.1920.968" timestamp="1600358922664" />
     <state width="1878" height="340" key="GridCell.Tab.0.center/0.23.1920.972@0.23.1920.972" timestamp="1599493907947" />
-    <state width="1920" height="312" key="GridCell.Tab.0.left" timestamp="1600358922663">
-      <screen x="0" y="23" width="1920" height="968" />
+    <state width="1920" height="310" key="GridCell.Tab.0.left" timestamp="1600627240651">
+      <screen x="0" y="23" width="1920" height="964" />
     </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.left/0.23.1920.964@0.23.1920.964" timestamp="1600627240651" />
     <state width="1920" height="312" key="GridCell.Tab.0.left/0.23.1920.968@0.23.1920.968" timestamp="1600358922663" />
     <state width="1878" height="340" key="GridCell.Tab.0.left/0.23.1920.972@0.23.1920.972" timestamp="1599493907946" />
-    <state width="1920" height="312" key="GridCell.Tab.0.right" timestamp="1600358922664">
-      <screen x="0" y="23" width="1920" height="968" />
+    <state width="1920" height="310" key="GridCell.Tab.0.right" timestamp="1600627240652">
+      <screen x="0" y="23" width="1920" height="964" />
     </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.right/0.23.1920.964@0.23.1920.964" timestamp="1600627240652" />
     <state width="1920" height="312" key="GridCell.Tab.0.right/0.23.1920.968@0.23.1920.968" timestamp="1600358922664" />
     <state width="1878" height="340" key="GridCell.Tab.0.right/0.23.1920.972@0.23.1920.972" timestamp="1599493907947" />
     <state width="1920" height="347" key="GridCell.Tab.1.bottom" timestamp="1600023950400">
@@ -190,6 +196,10 @@
       <screen x="0" y="23" width="1920" height="968" />
     </state>
     <state x="448" y="88" key="SettingsEditor/0.23.1920.968@0.23.1920.968" timestamp="1600357997569" />
+    <state x="666" y="262" width="588" height="486" key="find.popup" timestamp="1600615875270">
+      <screen x="0" y="23" width="1920" height="964" />
+    </state>
+    <state x="666" y="262" width="588" height="486" key="find.popup/0.23.1920.964@0.23.1920.964" timestamp="1600615875269" />
     <state x="625" y="236" key="search.everywhere.popup" timestamp="1600272775074">
       <screen x="0" y="23" width="1920" height="968" />
     </state>
