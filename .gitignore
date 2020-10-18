@@ -1,0 +1,8 @@
+# IDEA
+.idea/
+
+# Java out
+out/
+
+# iml
+*.iml
