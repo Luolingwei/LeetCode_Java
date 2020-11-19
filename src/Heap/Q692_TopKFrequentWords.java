@@ -11,17 +11,8 @@ public class Q692_TopKFrequentWords {
     public List<String> topKFrequent(String[] words, int k) {
         Map<String,Integer> dic=new HashMap<>();
         List<String> ans=new ArrayList<>();
-        for (String w: words)
-            dic.put(w,dic.getOrDefault(w,0)+1);
-        PriorityQueue<String> pq=new PriorityQueue<>(new Comparator<String>() {
-            @Override
-            public int compare(String s1, String s2) {
-                if (dic.get(s1)==dic.get(s2)){
-                    return s1.compareTo(s2);
-                }
-                return dic.get(s2)-dic.get(s1);
-            }
-        });
+        for (String w: words) dic.put(w,dic.getOrDefault(w,0)+1);
+        PriorityQueue<String> pq=new PriorityQueue<>((s1,s2)->dic.get(s1)==dic.get(s2)?s1.compareTo(s2):dic.get(s2)-dic.get(s1));
         for (String w:dic.keySet())
             pq.add(w);
         for (int i=0;i<k;i++)
